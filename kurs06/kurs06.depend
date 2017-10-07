@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507402930 source:c:\users\filip\onedrive\dokumenty\programowanie\kurs06\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string>
+	<algorithm>
+

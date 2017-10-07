@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507121120 source:c:\users\filip\onedrive\dokumenty\programowanie\kurs03\main.cpp
+	<iostream>
+	<windows.h>
+
