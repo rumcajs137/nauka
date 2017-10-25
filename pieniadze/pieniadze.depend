@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508367028 source:c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\pieniadze\main.cpp
+	<iostream>
+	<windows.h>
+

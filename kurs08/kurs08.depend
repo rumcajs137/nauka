@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507906946 source:c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs08\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<cstdlib>
+

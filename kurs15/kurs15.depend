@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508832150 source:c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs15\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+
