@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1508958041 source:c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs08\przyjaciele.cpp
+	<iostream>
+	<string>
+	"przyjaciele.h"
+
+1509115539 c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs08\przyjaciele.h
+	<iostream>
+	<string>
+
+1509116677 source:c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs08\èrÛd≥o.cpp
+	<iostream>
+	<string>
+	"przyjaciele.h"
+	<windows.h>
+

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1509284635 source:c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs09\main.cpp
+	<iostream>
+	"punkt.h"
+	"kolo.h"
+	"kula.h"
+	<windows.h>
+	<string>
+
+1509281507 c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs09\include\punkt.h
+	<iostream>
+	<string>
+
+1509285295 c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs09\include\kolo.h
+	"punkt.h"
+	<iostream>
+	<string>
+
+1509285295 c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs09\include\kula.h
+	"kolo.h"
+	<iostream>
+	<string>
+
+1509284773 source:c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs09\src\kolo.cpp
+	"kolo.h"
+	"punkt.h"
+	<math.h>
+	<string>
+
+1509284773 source:c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs09\src\kula.cpp
+	"kula.h"
+	<iostream>
+	<string.>
+	<math.h>
+
+1509281507 source:c:\users\filip\onedrive\dokumenty\programowanie\github\nauka\kurs16\kurs09\src\punkt.cpp
+	"punkt.h"
+	<iostream>
+	<string>
+
