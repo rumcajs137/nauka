@@ -1,0 +1,10 @@
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\bin\Release\Notatnik.exe.config
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\bin\Release\Notatnik.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\bin\Release\Notatnik.pdb
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\obj\Release\Notatnik.AboutBox1.resources
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\obj\Release\Notatnik.Notatnik.resources
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\obj\Release\Notatnik.Properties.Resources.resources
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\obj\Release\Notatnik.csproj.GenerateResource.Cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\obj\Release\Notatnik.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\obj\Release\Notatnik.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Notatnik\Notatnik\obj\Release\Notatnik.pdb
