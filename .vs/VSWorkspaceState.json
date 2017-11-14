@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Notatnik",
+    "\\Notatnik\\Notatnik",
+    "\\Notatnik\\Notatnik\\Properties"
   ],
+  "SelectedNode": "\\Notatnik\\Notatnik\\AboutBox1.cs",
   "PreviewInSolutionExplorer": false
 }
