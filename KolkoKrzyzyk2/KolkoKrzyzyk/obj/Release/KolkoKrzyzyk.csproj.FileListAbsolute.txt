@@ -17,3 +17,6 @@ D:\Dokumenty\Programowanie\KolkoKrzyzyk2\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.e
 D:\Dokumenty\Programowanie\KolkoKrzyzyk2\KolkoKrzyzyk\obj\Release\KolkoKrzyzyk.pdb
 D:\Dokumenty\Programowanie\KolkoKrzyzyk2\KolkoKrzyzyk\KolkoKrzyzyk.exe
 D:\Dokumenty\Programowanie\KolkoKrzyzyk2\KolkoKrzyzyk\KolkoKrzyzyk.pdb
+D:\Dokumenty\Programowanie\KolkoKrzyzyk2\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.exe.config
+D:\Dokumenty\Programowanie\KolkoKrzyzyk2\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.exe
+D:\Dokumenty\Programowanie\KolkoKrzyzyk2\KolkoKrzyzyk\bin\Release\KolkoKrzyzyk.pdb

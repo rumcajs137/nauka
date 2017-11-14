@@ -4,6 +4,6 @@
     <StartWorkingDirectory>D:\Dokumenty\Programowanie\KolkoKrzyzyk2\KolkoKrzyzyk\</StartWorkingDirectory>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
-    <StartWorkingDirectory>D:\Dokumenty\Programowanie\KolkoKrzyzyk\KolkoKrzyzyk\</StartWorkingDirectory>
+    <StartWorkingDirectory>D:\Dokumenty\Programowanie\KolkoKrzyzyk2\KolkoKrzyzyk\</StartWorkingDirectory>
   </PropertyGroup>
 </Project>
