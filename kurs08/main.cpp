@@ -2,6 +2,7 @@
 #include <windows.h>
 #include <time.h>
 #include <cstdlib>
+#include <string>
 
 using namespace std;
 
@@ -39,5 +40,6 @@ int main()
     czas=(double)(stop-start)/CLOCKS_PER_SEC;
     cout<<"czas zapisu (ze wskaznikiem): "<<czas<<endl;
     delete [] tablica;
+    system ("pause");
     return 0;
 }
