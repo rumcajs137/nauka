@@ -1,0 +1,7 @@
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\eventyidelegaty\eventyidelegaty\bin\Debug\eventyidelegaty.exe.config
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\eventyidelegaty\eventyidelegaty\bin\Debug\eventyidelegaty.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\eventyidelegaty\eventyidelegaty\bin\Debug\eventyidelegaty.pdb
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\eventyidelegaty\eventyidelegaty\obj\Debug\eventyidelegaty.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\eventyidelegaty\eventyidelegaty\obj\Debug\eventyidelegaty.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\eventyidelegaty\eventyidelegaty\obj\Debug\eventyidelegaty.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\eventyidelegaty\eventyidelegaty\obj\Debug\eventyidelegaty.pdb

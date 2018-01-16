@@ -1,0 +1,16 @@
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\App.g.cs
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\DataGrid_MarkupCompile.cache
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\DataGrid_MarkupCompile.lref
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\MainWindow.baml
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\DataGrid.g.resources
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\DataGrid.pdb
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataGrid\DataGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs

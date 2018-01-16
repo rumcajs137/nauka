@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\Figury.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\App.g.cs
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\Figury_MarkupCompile.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\bin\Debug\Figury.exe.config
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\bin\Debug\Figury.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\bin\Debug\Figury.pdb
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\MainWindow.g.cs
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\Figury_MarkupCompile.lref
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\MainWindow.baml
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\Figury.g.resources
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\Figury.Properties.Resources.resources
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\Figury.csproj.GenerateResource.Cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\Figury.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\Figury.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\Figury\Figury\obj\Debug\Figury.pdb

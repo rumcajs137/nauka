@@ -1,0 +1,23 @@
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\bin\Debug\DataTriggers.exe.config
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\bin\Debug\DataTriggers.exe
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\bin\Debug\DataTriggers.pdb
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\DataTriggers.csprojResolveAssemblyReference.cache
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\MainWindow.baml
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\MainWindow.g.cs
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\App.g.cs
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\DataTriggers_MarkupCompile.cache
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\DataTriggers.g.resources
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\DataTriggers.Properties.Resources.resources
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\DataTriggers.csproj.GenerateResource.Cache
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\DataTriggers.exe
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\DataTriggers.pdb
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\DataTriggers_MarkupCompile.lref
+C:\Users\Arek\documents\visual studio 2013\Projects\DataTriggers\bin\Debug\logo-videokurspl.png
+C:\Users\Arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\ImagesWithTitles.baml
+C:\Users\Arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\ImagesWithTitles.g.cs
+C:\Users\Arek\documents\visual studio 2013\Projects\DataTriggers\bin\Debug\not_available.png
+C:\Users\Arek\documents\visual studio 2013\Projects\DataTriggers\obj\Debug\DataTriggers_Content.g.cs
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\bin\Debug\DataTriggers.exe.config
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DataTriggers.exe
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DataTriggers.pdb

@@ -1,0 +1,37 @@
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\bin\Debug\DataTriggers.exe.config
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DataTriggers.exe
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DataTriggers.pdb
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\bin\Debug\DataTriggers.exe
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\bin\Debug\DataTriggers.pdb
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\ImagesWithTitles.baml
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\ImagesWithTitles.g.cs
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\MainWindow.g.cs
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\App.g.cs
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DataTriggers_MarkupCompile.cache
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DataTriggers_MarkupCompile.lref
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\MainWindow.baml
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DataTriggers.g.resources
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DataTriggers.Properties.Resources.resources
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DependencyProperty.csproj.GenerateResource.Cache
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\bin\Debug\logo-videokurspl.png
+G:\VIDEO KURSY\C# WPF XAML - tworzenie Aplikacji\30. Custom Dependency Property\DataTriggers\obj\Debug\DataTriggers_Content.g.cs
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\bin\Debug\logo-videokurspl.png
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\bin\Debug\DataTriggers.exe.config
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\bin\Debug\DataTriggers.exe
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\bin\Debug\DataTriggers.pdb
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\ImagesWithTitles.baml
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\ImagesWithTitles.g.cs
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\MainWindow.g.cs
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\App.g.cs
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\DataTriggers_Content.g.cs
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\DataTriggers_MarkupCompile.cache
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\DataTriggers_MarkupCompile.lref
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\MainWindow.baml
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\DataTriggers.g.resources
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\DataTriggers.Properties.Resources.resources
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\DependencyProperty.csproj.GenerateResource.Cache
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\DependencyProperty.csproj.CoreCompileInputs.cache
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\DataTriggers.exe
+C:\Users\Filip\OneDrive\Dokumenty\Programowanie\DataTriggers\obj\Debug\DataTriggers.pdb

@@ -1,0 +1,14 @@
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\bin\Debug\groupboxiradiobutton.exe.config
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\bin\Debug\groupboxiradiobutton.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\bin\Debug\groupboxiradiobutton.pdb
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\groupboxiradiobutton.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\MainWindow.g.cs
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\App.g.cs
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\groupboxiradiobutton_MarkupCompile.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\MainWindow.baml
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\groupboxiradiobutton.g.resources
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\groupboxiradiobutton.Properties.Resources.resources
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\groupboxiradiobutton.csproj.GenerateResource.Cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\groupboxiradiobutton.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\groupboxiradiobutton.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\groupboxiradiobutton\groupboxiradiobutton\obj\Debug\groupboxiradiobutton.pdb

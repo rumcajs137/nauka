@@ -1,0 +1,15 @@
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\bin\Release\INotifyProperty.exe.config
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\bin\Release\INotifyProperty.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\bin\Release\INotifyProperty.pdb
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\INotifyProperty.csprojResolveAssemblyReference.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\MainWindow.g.cs
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\App.g.cs
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\INotifyProperty_MarkupCompile.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\INotifyProperty_MarkupCompile.lref
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\MainWindow.baml
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\INotifyProperty.g.resources
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\INotifyProperty.Properties.Resources.resources
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\INotifyProperty.csproj.GenerateResource.Cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\INotifyProperty.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\INotifyProperty.exe
+C:\Users\filip\OneDrive\Dokumenty\Programowanie\INotifyProperty\INotifyProperty\obj\Release\INotifyProperty.pdb
