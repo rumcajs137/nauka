@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+d:\dokumenty\programowanie\nauka\wyrazenie_lambda\wyrazenie_lambda\źródło.cpp(11): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\dokumenty\programowanie\nauka\wyrazenie_lambda\wyrazenie_lambda\źródło.cpp(14): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\dokumenty\programowanie\nauka\wyrazenie_lambda\wyrazenie_lambda\źródło.cpp(19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  wyrazenie_lambda.vcxproj -> D:\Dokumenty\Programowanie\nauka\wyrazenie_lambda\Debug\wyrazenie_lambda.exe
